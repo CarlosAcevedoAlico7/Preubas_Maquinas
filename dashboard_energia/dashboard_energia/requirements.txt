@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas>=2.1
+numpy>=1.26
+plotly>=5.22
+openpyxl>=3.1
+# Para la migración a Snowflake:
+# snowflake-connector-python[pandas]>=3.10
